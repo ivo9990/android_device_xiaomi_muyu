@@ -25,3 +25,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="missi-user 16 BP2A.250605.031.A3 16OS3.1.260625.204410701.QCPDGL.S release-keys" \
     BuildFingerprint=Xiaomi/muyu_eea/muyu:16/BP2A.250605.031.A3/OS3.0.304.0.WOYEUXM:user/release-keys
+
+# Evolution X
+TARGET_SUPPORTS_QUICK_TAP := false
