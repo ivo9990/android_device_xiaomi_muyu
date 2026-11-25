@@ -1,3 +1,6 @@
 # Fingerprint
 persist.vendor.fingerprint.type=side
 persist.vendor.fingerprint.sensor_location=2100|0|200
+
+# Boot animation
+ro.bootanim.set_orientation_4630946533086175619=ORIENTATION_90
